@@ -1,0 +1,2 @@
+class GroupUserPair < ApplicationRecord
+end
